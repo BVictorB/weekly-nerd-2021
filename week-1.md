@@ -1,6 +1,8 @@
 # Weekly nerd week 1
 > In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Chris Coyer om deze vraag te beantwoorden.
 
+Ik ben zelf wel echt meer een technische frontender. Ik hou er echt van om met technische uitdagingen aan de slag te gaan, binnen projecten waar veel data rondbeweegt en wordt vervormt. Dit heb ik ook echt gemerkt tijdens het Real-Time Web vak, hier heb ik mijzelf echt best wel uitgedaagd op het technische gebied. Maar ik vind interactie/UX/design ook enorm interessant en leuk, en dat is iets waar ik mezelf misschien nog wel iets meer in wil ontwikkelen. Persoonlijk vind ik dat een goeie frontender over alles wel kennis moet hebben wat binnen het vakgebied ligt, maar ik betwijfel het dat je in alles even goed kan zijn. Dus ik vind dat er wel een gebied binnen de frontend wereld moet zijn waar je zelf echt je expertise van moet maken, dan kan je ergens in uitblinken.
+
 ## Dept
 [De website van Dept](https://www.deptagency.com/nl-nl/)
 ### Dept campus
